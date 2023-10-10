@@ -1,7 +1,12 @@
 # akw-consultants
 This is a React Web App solution for the assignment for the Firebase Authentication &amp; Storage Manager
 
+# Important
 I am using Node version v18.18.0 to run the command "npx create-react-app firebase-app" to create my "firebase-app" React Web Application for this assignment.
+To test the application, do the following:
+1. Download Files
+2. run "npm install"
+3. run "npm start"
 
 There are 2 features in the Authentication part of the application (Sign In, Sign Up & Sign Out)
   1. Sign In (Enabled)
