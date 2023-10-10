@@ -2,7 +2,7 @@
 This is a ReactJS Web App solution for the assignment for the Firebase Authentication &amp; Storage Manager
 
 # Important
-I am using Node version v18.18.0 to run the command "npx create-react-app firebase-app" to create my "firebase-app" ReactJS Web Application for this assignment.
+I am using Node version v18.18.0 to run the command "npx create-react-app firebase-app" to create my "firebase-app" ReactJS Web Application for this assignment, Tailwind used for Styling & CSS.
 ## To test the application, do the following:
     1. Download Files
     2. run "npm install"
