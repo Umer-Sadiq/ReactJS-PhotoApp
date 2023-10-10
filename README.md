@@ -7,7 +7,7 @@ I am using Node version v18.18.0 to run the command "npx create-react-app fireba
     1. Download Files
     2. run "npm install"
     3. run "npm start"
-    4. Use email: test@email.com with password: pass1234 to test
+    4. Test user login info: email: test@email.com, password: pass1234
 
 # Authentication
 3 features (Sign In, Sign Up & Sign Out)
