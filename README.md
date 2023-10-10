@@ -11,9 +11,9 @@ To test the application, do the following:
 # Authentication
 3 features (Sign In, Sign Up & Sign Out)
   1. Sign In (Enabled)
-       1. Uses Email & Password to sign in to the application
-       2. Once signed in can access the application and it's storage managament features
-       3. Application pages can only be accessed if user is logged in
+       1. Uses Email & Password Method
+       2. Sign In to access Firebase storage managament features
+       3. Pages only accessible if logged in
        4. If user tries to access the pages without login, they are not able to see the content and are asked to sign in
   2. Sign Out (Enabled)
        1. User has option to sign out of the application from all the pages
