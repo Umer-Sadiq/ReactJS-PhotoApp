@@ -29,7 +29,7 @@ I am using Node version v18.18.0 to run the command "npx create-react-app fireba
 ##  Upload Image(s)
     1. Option to Upload single image & multiple images as well
     2. Filename(s) should be supplied into the input field
-##  View ALl
+##  View All
     1. Displays all the images available in the storage along with some of their metadata values
     2. Sorted by Last Updated field
 ## Edit Image
