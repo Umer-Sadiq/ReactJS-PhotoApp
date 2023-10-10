@@ -8,7 +8,7 @@ To test the application, do the following:
 2. run "npm install"
 3. run "npm start"
 
-#Authentication
+# Authentication
 3 features (Sign In, Sign Up & Sign Out)
   1. Sign In (Enabled)
        1. Uses Email & Password to sign in to the application
