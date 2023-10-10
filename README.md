@@ -1,12 +1,13 @@
 # akw-consultants
-This is a React Web App solution for the assignment for the Firebase Authentication &amp; Storage Manager
+This is a ReactJS Web App solution for the assignment for the Firebase Authentication &amp; Storage Manager
 
 # Important
-I am using Node version v18.18.0 to run the command "npx create-react-app firebase-app" to create my "firebase-app" React Web Application for this assignment.
+I am using Node version v18.18.0 to run the command "npx create-react-app firebase-app" to create my "firebase-app" ReactJS Web Application for this assignment.
 To test the application, do the following:
 1. Download Files
 2. run "npm install"
 3. run "npm start"
+4. Use email: test@email.com with password: pass1234 to test
 
 # Authentication
 3 features (Sign In, Sign Up & Sign Out)
