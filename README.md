@@ -1,8 +1,8 @@
-# AKW Consultants Assignment Solution
-This is a ReactJS photo web app using Firebase Auth and Firebase Storage
+# React Photo Manager
+This is a React photo web app using Firebase Auth and Firebase Storage
 
 # Important
-I am using Node version v18.18.0 to run the command "npx create-react-app firebase-app" to create my "firebase-app" ReactJS Web Application, Tailwind used for Styling & CSS.
+I am using Node version v18.18.0 to run the command "npx create-react-app firebase-app" to create my "firebase-app" React Web App, Tailwind used for Styling & CSS.
 ## To test the application, do the following:
     1. Download Files
     2. run "npm install"
