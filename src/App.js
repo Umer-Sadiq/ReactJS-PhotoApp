@@ -18,6 +18,7 @@ function App() {
             <Route path="/" element={<Login />} />
             <Route path="/home" element={<Home />} />
             {/* <Route path="/signup" element={<Signup />} /> */}
+            {/* This is a comment */}
             <Route path="/viewall" element={<ViewAll />} />
             <Route path="/editentry" element={<EditEntry />} />
             <Route path="/deleteimage" element={<DeleteImage />} />
